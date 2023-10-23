@@ -1,6 +1,6 @@
 # JavaSprint01
 
-##Ideia do projeto: 
+Ideia do projeto: 
 
 Um formulário de cadastro, para captura de lead em conjunto com uma pesquisa de acessibilidade para ajudar a entender melhor o público da Salesforce, podendo posteriormente realizar a análise dos dados coletados por meio desse cadastro.
 
